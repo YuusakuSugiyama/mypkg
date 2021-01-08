@@ -65,9 +65,12 @@
   
   ## 著者
   
+  - [YuusakuSugiyama](https://github.com/YuusakuSugiyama)
+  
+  - コードの著者 :
   [Ryuichi Ueda](https://github.com/ryuichiueda)
   
-  ROSのセットアップの手引き :
+  - ROSのセットアップの手引き :
   [Ryuichi Ueda](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)
   
   ## ライセンス
