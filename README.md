@@ -8,7 +8,7 @@
 
 以下の環境にて動作します。
 
--ROS Noetic
+- ROS Noetic
  - OS: Ubuntu 20.04.1 LTS
  - Device: Raspberry Pi 4 Model B
  
@@ -52,7 +52,7 @@
  ```bash
   rosnode list
   ```
-  -　ノードの終了は`Ctrl+c Enter`を押します。
+  - ノードの終了は`Ctrl+c Enter`を押します。
   
   ## デモ動画
   
