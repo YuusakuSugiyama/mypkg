@@ -32,8 +32,10 @@
   ```
   
   ##パッケージについて
-  ###[count.py](https://github.com/YuusakuSugiyama/mypkg/blob/main/scripts/count.py)はパブリッシャを1つもちn+1を10Hzで実行し1秒間に10ずつ数字が増加するものです。
-  ###[twice.py](https://github.com/YuusakuSugiyama/mypkg/blob/main/scripts/twice.py)はサブスクライバを1つもちcount_upというトピックを購読しdataという変数を2倍しログとして吐出すものです。
+  
+  - [count.py](https://github.com/YuusakuSugiyama/mypkg/blob/main/scripts/count.py)はパブリッシャを1つもちn+1を10Hzで実行し1秒間に10ずつ数字が増加するものです。
+  
+  - [twice.py](https://github.com/YuusakuSugiyama/mypkg/blob/main/scripts/twice.py)はサブスクライバを1つもちcount_upというトピックを購読しdataという変数を2倍しログとして吐出すものです。
   
   - 実行する際には以下のコマンドを別々の端末に打ち込んみ実行します。
   
