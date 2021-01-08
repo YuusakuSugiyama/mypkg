@@ -31,7 +31,7 @@
   cd ~/catkin_ws && catkin_make
   ```
   
-  ##パッケージについて
+  ## パッケージについて
   
   - [count.py](https://github.com/YuusakuSugiyama/mypkg/blob/main/scripts/count.py)はパブリッシャを1つもちn+1を10Hzで実行し1秒間に10ずつ数字が増加するものです。
   
