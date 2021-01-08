@@ -37,7 +37,7 @@
   
   - [twice.py](https://github.com/YuusakuSugiyama/mypkg/blob/main/scripts/twice.py)はサブスクライバを1つもちcount_upというトピックを購読しdataという変数を2倍しログとして吐出すものです。
   
-  - 実行する際には以下のコマンドを別々の端末に打ち込んみ実行します。
+  - 実行する際には以下のコマンドを別々の端末に打ち込み実行します。
   
    ```bash
   roscore
