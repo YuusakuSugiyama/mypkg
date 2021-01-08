@@ -56,14 +56,20 @@
   
   - 実行した結果はこちらの動画からご覧ください。
   
-  - count.pyの実行動画 
-  [![](https://youtu.be/zr47Iegq6zg)
+  - [count.pyの実行動画](https://youtu.be/zr47Iegq6zg)
   
-  - twice.pyの実行動画
-  [![](https://youtu.be/w6PfSjNVh38)
+  - [twice.pyの実行動画](https://youtu.be/w6PfSjNVh38)
   
   
   ## 著者
   
+  [Ryuichi Ueda](https://github.com/ryuichiueda)
+  
+  ROSのセットアップの手引き :
+  [Ryuichi Ueda](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)
+  
+  ## ライセンス
+  
+  [BSD 3-Clause "New" or "Revised" License](https://github.com/YuusakuSugiyama/mypkg/blob/main/LICENSE)
   
   
