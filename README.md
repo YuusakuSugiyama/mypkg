@@ -32,7 +32,38 @@
   ```
   
   ##パッケージについて
-  - count.pyはパブリッシャを1つもちn+1を10Hzで実行し1秒間に10ずつ数字が増加するものです。
-  - twice.pyはサブスクライバを1つもちcount_upというトピックを購読しdataという変数を2倍しログとして吐出すものです。
+  ###[count.py](https://github.com/YuusakuSugiyama/mypkg/blob/main/scripts/count.py)はパブリッシャを1つもちn+1を10Hzで実行し1秒間に10ずつ数字が増加するものです。
+  ###[twice.py](https://github.com/YuusakuSugiyama/mypkg/blob/main/scripts/twice.py)はサブスクライバを1つもちcount_upというトピックを購読しdataという変数を2倍しログとして吐出すものです。
+  
+  - 実行する際には以下のコマンドを別々の端末に打ち込んみ実行します。
+  
+   ```bash
+  roscore
+  rosrun mypkg count.py
+  rosrun mypkg twice.py
+   ```
+  
+  ### その他の実行
+  
+  - 起動しているノードを確認する際は以下のコマンドを打ち込んで確認します。
+  
+ ```bash
+  rosnode list
+  ```
+  -　ノードの終了は`Ctrl+c Enter`を押します。
+  
+  ## デモ動画
+  
+  - 実行した結果はこちらの動画からご覧ください。
+  
+  - count.pyの実行動画 
+  [![](https://youtu.be/zr47Iegq6zg)
+  
+  - twice.pyの実行動画
+  [![](https://youtu.be/w6PfSjNVh38)
+  
+  
+  ## 著者
+  
   
   
